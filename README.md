@@ -10,8 +10,6 @@ This is a simple music player app built with Python and the Tkinter GUI library.
     
     Download songs from YouTube as MP3 files by simply pasting the URL
     
-    Supports various audio formats including MP3, MP4, and WAV
-    
     Store your music locally for easy access and offline playback
 
 ## Installation
