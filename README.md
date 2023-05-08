@@ -24,6 +24,7 @@ To use the app, simply clone the repository and run the MusicPlayer.py file. The
 * [tkinter](https://docs.python.org/3/library/tkinter.html) - The GUI library used
 * [pytube](https://pytube.io/en/latest/) - Used to download videos from Youtube
 
+## Screenshots
 
 ![screenshot1](https://user-images.githubusercontent.com/59984623/236862132-1eef7246-20aa-4b29-93a3-daeba30f6540.PNG)
 ![screenshot2](https://user-images.githubusercontent.com/59984623/236862162-47190d7e-175a-41c5-bf8d-2618bbac991a.PNG)
