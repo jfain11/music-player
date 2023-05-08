@@ -16,7 +16,7 @@ This is a simple music player app built with Python and the Tkinter GUI library.
 
 ## Installation
 
-To use the app, simply clone the repository and run the main.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
+To use the app, simply clone the repository and run the MusicPlayer.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
 
 ## Usage
 
