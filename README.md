@@ -24,5 +24,11 @@ Once you have the app up and running, you can easily add songs to your library b
 
 The app also features a built-in downloader that allows you to grab your favorite songs from YouTube by simply copying and pasting the URL. Once downloaded, the songs will be automatically added to your library for offline playback.
 
+## Built With
+
+* [pygame](https://www.pygame.org/docs/) - Used for audio handling
+* [tkinter](https://docs.python.org/3/library/tkinter.html) - The GUI library used
+* [pytube](https://pytube.io/en/latest/) - Used to download videos from Youtube
+
 ![screenshot1](https://user-images.githubusercontent.com/59984623/236862132-1eef7246-20aa-4b29-93a3-daeba30f6540.PNG)
 ![screenshot2](https://user-images.githubusercontent.com/59984623/236862162-47190d7e-175a-41c5-bf8d-2618bbac991a.PNG)
