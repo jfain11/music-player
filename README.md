@@ -1,7 +1,8 @@
 # music-player
 
 This is a simple music player app built with Python and the Tkinter GUI library. It allows you to play your favorite songs from your local storage without the need for an internet connection. With this app, you can easily manage your music library and enjoy your favorite tunes anytime, anywhere.
-Key Features
+
+## Key Features
 
     Easy to use interface with intuitive controls
     Play, pause, skip, and shuffle songs at the touch of a button
@@ -14,7 +15,7 @@ Key Features
 
 To use the app, simply clone the repository and run the main.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
 
-##Usage
+## Usage
 
 Once you have the app up and running, you can easily add songs to your library by clicking the "Add Songs" button and selecting the files you want to import. From there, you can browse your library, search for specific songs, and play them with ease.
 
