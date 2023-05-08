@@ -4,11 +4,14 @@ This is a simple music player app built with Python and the Tkinter GUI library.
 
 ## Key Features
 
-    Easy to use interface with intuitive controls
-    Play, pause, skip, and shuffle songs at the touch of a button
+    Play, pause, skip, and shuffle songs
+    
     Adjust volume and manage playback settings to suit your preferences
+    
     Download songs from YouTube as MP3 files by simply pasting the URL
-    Supports various audio formats including MP3, WAV, and FLAC
+    
+    Supports various audio formats including MP3, MP4, and WAV
+    
     Store your music locally for easy access and offline playback
 
 ## Installation
